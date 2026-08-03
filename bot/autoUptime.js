@@ -22,7 +22,7 @@ setTimeout(async function autoUptime() {
 		await axios.get(myUrl);
 		if (status != 'ok') {
 			status = 'ok';
-			log.info("UPTIME", "Bot is online");
+			log.info("UPTIME", "Bot is online and fresh");
 			// Custome notification here
 		}
 	}
