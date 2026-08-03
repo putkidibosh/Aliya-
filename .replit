@@ -1,2 +1,6 @@
 language = "nodejs"
 run = "npm start"
+
+[[ports]]
+localPort = 3210
+externalPort = 80
