@@ -708,4 +708,4 @@ const shortcuts = [{
 
   })();
 </script>
-<%~ includeFile("partials/footer.eta") %>
+<%~ includeFile("partials/footer.eta") %> 
