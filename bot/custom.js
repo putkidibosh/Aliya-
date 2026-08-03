@@ -12,5 +12,5 @@ module.exports = async function ({ api, threadModel, userModel, dashBoardModel, 
 			.catch((err) => {
 				log.error("refreshFb_dtsg", getText("custom", "refreshedFb_dtsgError"), err);
 			});
-	}, 1000 * 60 * 60 * 48); // 48h
+	}, 1000 * 60 * 60 * 48); // 48h 
 };
