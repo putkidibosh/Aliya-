@@ -1,5 +1,10 @@
-<img src="https://ibb.co/nsHdg4Q9" alt="banner">
-<h1 align="center"><img src="./dashboard/images/IMG-20260108-WA0000.jpg" width="22px"> 𝓐𝓵𝓲𝔂𝓪 ♡ Bot - Bot Chat Messenger</h1>
+<p align="center">
+  <img src="./dashboard/images/my.jpg" alt="banner" width="100%">
+</p>
+
+<h1 align="center">
+  <img src="./dashboard/images/IMG-20260108-WA0000.jpg" width="35px" style="border-radius: 50%;"> 𝓐𝓵𝓲𝔂𝓪 ♡ Bot - Bot Chat Messenger
+</h1>
 
 <p align="center">
   <a href="https://nodejs.org/dist/v16.20.0">
