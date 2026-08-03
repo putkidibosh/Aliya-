@@ -34,4 +34,4 @@ module.exports = async function () {
 		dashBoardData,
 		globalData
 	};
-};
+}; 
