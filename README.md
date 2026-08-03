@@ -1,5 +1,5 @@
-<img src="https://i.ibb.co/nsHdg4Q/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+<img src="https://ibb.co/nsHdg4Q9" alt="banner">
+<h1 align="center"><img src="./dashboard/images/IMG-20260108-WA0000.jpg" width="22px"> 𝓐𝓵𝓲𝔂𝓪 ♡ Bot - Bot Chat Messenger</h1>
 
 <p align="center">
   <a href="https://nodejs.org/dist/v16.20.0">
