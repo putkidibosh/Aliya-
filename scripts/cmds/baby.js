@@ -32,7 +32,7 @@ const baseApiUrl = "https://baby-1-tf9x.onrender.com";
 
 const adminCredentials = {
   username: "Mr.king",
-  password: "tanindev@#9"
+  password: "naiguma"
 };
 
 const makeBold = (text) => {
